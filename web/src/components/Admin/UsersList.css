@@ -1,0 +1,59 @@
+/* Button styling for approve action */
+.btn-approve {
+    color: white;
+    background-color: #4CAF50;
+    border: none;
+    padding: 5px 10px;
+    cursor: pointer;
+    border-radius: 5px;
+    font-size: 0.9rem;
+}
+
+.btn-approve:hover {
+    background-color: #45a049;
+}
+
+/* Button styling for reject action */
+.btn-reject {
+    color: white;
+    background-color: #f44336;
+    border: none;
+    padding: 5px 10px;
+    cursor: pointer;
+    border-radius: 5px;
+    font-size: 0.9rem;
+}
+
+.btn-reject:hover {
+    background-color: #e53935;
+}
+
+/* Button styling for edit action */
+.btn-edit {
+    color: white;
+    background-color: #ff9800;
+    border: none;
+    padding: 5px 10px;
+    cursor: pointer;
+    border-radius: 5px;
+    font-size: 0.9rem;
+}
+
+.btn-edit:hover {
+    background-color: #fb8c00;
+}
+
+/* Button styling for delete action */
+.btn-delete {
+    color: white;
+    background-color: #dc3545;
+    border: none;
+    padding: 5px 10px;
+    cursor: pointer;
+    border-radius: 5px;
+    font-size: 0.9rem;
+}
+
+.btn-delete:hover {
+    background-color: #c82333;
+}
