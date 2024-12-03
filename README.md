@@ -1,7 +1,7 @@
-# Farmer Management System
-## The repository for CSCI 361 Laboratory Project, Section 1, Team G. Team List with contributions
+# Farmer Management System. The repository for CSCI 361 Laboratory Project, Section 1, Team G.
+## Team List with contributions:
 
-1. Dilnaz Aitmaganbetova
+1. Dilnaz Aitmaganbetova - frontend (mobile)
 2. Bakdaulet Dauletov - backend (admin, mobile) 
 3. Yedil Koldasbek - UX/UI design
 4. Ainur Taskynova - backend (mobile)
